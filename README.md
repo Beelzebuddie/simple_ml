@@ -3,6 +3,7 @@
  First Machine Learning Project
 
 This project is an implementation of a machine learning model to predict solubility using data from the Delaney dataset. The project was created with the guidance of the "Data Professor" on YouTube.
+[https://www.youtube.com/watch?v=29ZQ3TDGgRQ]
 
  Data Source
 The dataset used in this project is obtained from the following URL:
